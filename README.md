@@ -1,4 +1,4 @@
-<div align="center">Enamul Haque </div>
+<div align="center"> <img src="./images/new.jpg"> </div>
 <br>
 <br>
 <!-- <img align="right" width="400" height="250" alt="boy with computer" src="./images/coffee.png" /> -->
