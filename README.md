@@ -29,7 +29,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?logo=Windows&style=for-the-badge&logoColor=white)
--->
 
 <!-- Definitions -->
 
