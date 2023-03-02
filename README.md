@@ -15,6 +15,7 @@
 
 [![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&labelColor=17202A&color=1abc9c)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&labelColor=17202A&color=1abc9c)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-Hello-yellow?style=for-the-badge&logo=django&logoColor=green)](https://docs.djangoproject.com/)
 [![ReactJS](https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)](https://reactjs.org/)
 [![C](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&labelColor=17202A&color=1abc9c)](https://www.cprogramming.com/)
 [![C++](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&labelColor=17202A&color=1abc9c)](https://isocpp.org/)
