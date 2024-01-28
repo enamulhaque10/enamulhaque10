@@ -31,6 +31,16 @@
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?logo=Windows&style=for-the-badge&logoColor=white)
 
+## :octocat: GitHub Stats
+
+<div style="display: flex; flex-direction: row;">
+
+  <img width="48%" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=enamulhaque10&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3498DB&bg_color=2c3e50" />
+  <span>&nbsp;</span>
+  <img width="48%" height="170" src="https://streak-stats.demolab.com?user=enamulhaque10&height=170&border_radius=5&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
 <!-- Definitions -->
 
 [pabon]: https://github.com/shahnawaz-pabon
